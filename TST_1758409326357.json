@@ -1,0 +1,6 @@
+{
+  "name": "TestToken",
+  "symbol": "TST",
+  "description": "Test token metadata upload",
+  "image": "https://placekitten.com/200/200"
+}
