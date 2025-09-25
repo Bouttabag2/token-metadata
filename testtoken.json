@@ -1,0 +1,22 @@
+{
+  "name": "testToken",
+  "symbol": "TT",
+  "description": "A simple test token on Solana.",
+  "image": "https://raw.githubusercontent.com/Bouttabag2/token-metadata/refs/heads/images/20250918_1301_Mirror%20Finish%20Logo_simple_compose_01k5ezpn77ep4akm15krx5nyrg.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Bouttabag2/token-metadata/refs/heads/images/20250918_1301_Mirror%20Finish%20Logo_simple_compose_01k5ezpn77ep4akm15krx5nyrg.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "A7rkZCk8JUG2V3RWSqL1DTMSnbm4VAiyx5uFQZ3NUfuE",
+        "share": 100
+      }
+    ]
+  }
+}
